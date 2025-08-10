@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: "YOUR\_ TRUST OUR"
+      text: "YOUR\_ TRUST OUR RESPONSIBILITES"
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
